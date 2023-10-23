@@ -1,0 +1,129 @@
+originalDomain,testIdentifier,passed,passType,severity,description
+goldmarie-friends.de,privacy-statement-missing,False,failed,Severity.CRITICAL,
+goldmarie-friends.de,ip-not-anonymized-googleanalytics,True,passed,Severity.MEDIUM,
+goldmarie-friends.de,privacy-missing-thirdparty-googleanalytics,False,precondition_failed,Severity.LOW,The tested third party is used in the index page but there seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-thirdparty-matomo,True,not_applicable,Severity.LOW,
+goldmarie-friends.de,privacy-missing-thirdparty-facebook-pixel,True,not_applicable,Severity.LOW,
+goldmarie-friends.de,privacy-missing-thirdparty-twitter,True,not_applicable,Severity.LOW,
+goldmarie-friends.de,privacy-missing-thirdparty-hubspot,False,precondition_failed,Severity.LOW,The tested third party is used in the index page but there seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-information-request,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-information-deletion-request,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-revocation,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-object,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-complaint,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-portability,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-non-eu-transmission,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-rectification,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+goldmarie-friends.de,privacy-missing-officer-contact-details,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+lupus-ddns.de,privacy-statement-missing,True,passed,Severity.CRITICAL,
+lupus-ddns.de,ip-not-anonymized-googleanalytics,True,passed,Severity.MEDIUM,
+lupus-ddns.de,privacy-missing-thirdparty-googleanalytics,True,passed,Severity.LOW,
+lupus-ddns.de,privacy-missing-thirdparty-matomo,True,not_applicable,Severity.LOW,
+lupus-ddns.de,privacy-missing-thirdparty-facebook-pixel,True,not_applicable,Severity.LOW,
+lupus-ddns.de,privacy-missing-thirdparty-twitter,True,not_applicable,Severity.LOW,
+lupus-ddns.de,privacy-missing-thirdparty-hubspot,True,not_applicable,Severity.LOW,
+lupus-ddns.de,privacy-missing-information-request,True,passed,Severity.LOW,
+lupus-ddns.de,privacy-missing-information-deletion-request,True,passed,Severity.MEDIUM,
+lupus-ddns.de,privacy-missing-revocation,True,passed,Severity.MEDIUM,
+lupus-ddns.de,privacy-missing-object,True,passed,Severity.MEDIUM,
+lupus-ddns.de,privacy-missing-complaint,False,failed,Severity.LOW,
+lupus-ddns.de,privacy-missing-portability,False,failed,Severity.LOW,
+lupus-ddns.de,privacy-missing-non-eu-transmission,True,passed,Severity.LOW,
+lupus-ddns.de,privacy-missing-rectification,True,passed,Severity.LOW,
+lupus-ddns.de,privacy-missing-officer-contact-details,True,passed,Severity.MEDIUM,The stated data protection officer has contact details
+logbuch-netzpolitik.de,privacy-statement-missing,True,passed,Severity.CRITICAL,
+logbuch-netzpolitik.de,ip-not-anonymized-googleanalytics,True,not_applicable,Severity.MEDIUM,
+logbuch-netzpolitik.de,privacy-missing-thirdparty-googleanalytics,True,not_applicable,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-thirdparty-matomo,True,not_applicable,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-thirdparty-facebook-pixel,True,not_applicable,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-thirdparty-twitter,True,not_applicable,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-thirdparty-hubspot,True,not_applicable,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-information-request,False,failed,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-information-deletion-request,False,failed,Severity.MEDIUM,
+logbuch-netzpolitik.de,privacy-missing-revocation,False,failed,Severity.MEDIUM,
+logbuch-netzpolitik.de,privacy-missing-object,False,failed,Severity.MEDIUM,
+logbuch-netzpolitik.de,privacy-missing-complaint,False,failed,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-portability,False,failed,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-non-eu-transmission,True,uncertain,Severity.LOW,Uncertain because we cannot tell whether transmissions occured
+logbuch-netzpolitik.de,privacy-missing-rectification,False,failed,Severity.LOW,
+logbuch-netzpolitik.de,privacy-missing-officer-contact-details,True,uncertain,Severity.MEDIUM,No protection officer was mentioned at all
+berufskleidung24.de,privacy-statement-missing,True,passed,Severity.CRITICAL,
+berufskleidung24.de,ip-not-anonymized-googleanalytics,True,passed,Severity.MEDIUM,
+berufskleidung24.de,privacy-missing-thirdparty-googleanalytics,False,failed,Severity.LOW,
+berufskleidung24.de,privacy-missing-thirdparty-matomo,True,passed,Severity.LOW,
+berufskleidung24.de,privacy-missing-thirdparty-facebook-pixel,True,not_applicable,Severity.LOW,
+berufskleidung24.de,privacy-missing-thirdparty-twitter,True,not_applicable,Severity.LOW,
+berufskleidung24.de,privacy-missing-thirdparty-hubspot,True,not_applicable,Severity.LOW,
+berufskleidung24.de,privacy-missing-information-request,True,passed,Severity.LOW,
+berufskleidung24.de,privacy-missing-information-deletion-request,True,passed,Severity.MEDIUM,
+berufskleidung24.de,privacy-missing-revocation,True,passed,Severity.MEDIUM,
+berufskleidung24.de,privacy-missing-object,True,passed,Severity.MEDIUM,
+berufskleidung24.de,privacy-missing-complaint,True,passed,Severity.LOW,
+berufskleidung24.de,privacy-missing-portability,True,passed,Severity.LOW,
+berufskleidung24.de,privacy-missing-non-eu-transmission,True,uncertain,Severity.LOW,Uncertain because we cannot tell whether transmissions occured
+berufskleidung24.de,privacy-missing-rectification,True,passed,Severity.LOW,
+berufskleidung24.de,privacy-missing-officer-contact-details,False,failed,Severity.MEDIUM,The stated data protection officer has no contact details
+officecoach24.de,privacy-statement-missing,False,failed,Severity.CRITICAL,
+officecoach24.de,ip-not-anonymized-googleanalytics,False,failed,Severity.MEDIUM,
+officecoach24.de,privacy-missing-thirdparty-googleanalytics,False,precondition_failed,Severity.LOW,The tested third party is used in the index page but there seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-thirdparty-matomo,True,not_applicable,Severity.LOW,
+officecoach24.de,privacy-missing-thirdparty-facebook-pixel,True,not_applicable,Severity.LOW,
+officecoach24.de,privacy-missing-thirdparty-twitter,False,precondition_failed,Severity.LOW,The tested third party is used in the index page but there seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-thirdparty-hubspot,True,not_applicable,Severity.LOW,
+officecoach24.de,privacy-missing-information-request,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-information-deletion-request,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-revocation,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-object,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-complaint,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-portability,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-non-eu-transmission,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-rectification,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+officecoach24.de,privacy-missing-officer-contact-details,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+kristalltherme-altenau.de,privacy-statement-missing,True,passed,Severity.CRITICAL,
+kristalltherme-altenau.de,ip-not-anonymized-googleanalytics,False,failed,Severity.MEDIUM,
+kristalltherme-altenau.de,privacy-missing-thirdparty-googleanalytics,True,passed,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-thirdparty-matomo,True,not_applicable,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-thirdparty-facebook-pixel,True,not_applicable,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-thirdparty-twitter,True,not_applicable,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-thirdparty-hubspot,True,not_applicable,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-information-request,True,passed,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-information-deletion-request,True,passed,Severity.MEDIUM,
+kristalltherme-altenau.de,privacy-missing-revocation,True,passed,Severity.MEDIUM,
+kristalltherme-altenau.de,privacy-missing-object,True,passed,Severity.MEDIUM,
+kristalltherme-altenau.de,privacy-missing-complaint,True,passed,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-portability,True,passed,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-non-eu-transmission,True,passed,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-rectification,True,passed,Severity.LOW,
+kristalltherme-altenau.de,privacy-missing-officer-contact-details,True,passed,Severity.MEDIUM,The stated data protection officer has contact details
+hohenbogen.de,privacy-statement-missing,False,failed,Severity.CRITICAL,
+hohenbogen.de,ip-not-anonymized-googleanalytics,True,not_applicable,Severity.MEDIUM,
+hohenbogen.de,privacy-missing-thirdparty-googleanalytics,True,not_applicable,Severity.LOW,
+hohenbogen.de,privacy-missing-thirdparty-matomo,False,precondition_failed,Severity.LOW,The tested third party is used in the index page but there seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-thirdparty-facebook-pixel,False,precondition_failed,Severity.LOW,The tested third party is used in the index page but there seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-thirdparty-twitter,True,not_applicable,Severity.LOW,
+hohenbogen.de,privacy-missing-thirdparty-hubspot,True,not_applicable,Severity.LOW,
+hohenbogen.de,privacy-missing-information-request,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-information-deletion-request,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-revocation,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-object,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-complaint,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-portability,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-non-eu-transmission,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-rectification,False,precondition_failed,Severity.LOW,There seems to be no privacy statement at all.
+hohenbogen.de,privacy-missing-officer-contact-details,False,precondition_failed,Severity.MEDIUM,There seems to be no privacy statement at all.
+heise.de,privacy-statement-missing,True,passed,Severity.CRITICAL,
+heise.de,ip-not-anonymized-googleanalytics,True,not_applicable,Severity.MEDIUM,
+heise.de,privacy-missing-thirdparty-googleanalytics,True,not_applicable,Severity.LOW,
+heise.de,privacy-missing-thirdparty-matomo,True,not_applicable,Severity.LOW,
+heise.de,privacy-missing-thirdparty-facebook-pixel,True,not_applicable,Severity.LOW,
+heise.de,privacy-missing-thirdparty-twitter,True,not_applicable,Severity.LOW,
+heise.de,privacy-missing-thirdparty-hubspot,True,not_applicable,Severity.LOW,
+heise.de,privacy-missing-information-request,True,passed,Severity.LOW,
+heise.de,privacy-missing-information-deletion-request,True,passed,Severity.MEDIUM,
+heise.de,privacy-missing-revocation,True,passed,Severity.MEDIUM,
+heise.de,privacy-missing-object,True,passed,Severity.MEDIUM,
+heise.de,privacy-missing-complaint,True,passed,Severity.LOW,
+heise.de,privacy-missing-portability,True,passed,Severity.LOW,
+heise.de,privacy-missing-non-eu-transmission,True,passed,Severity.LOW,
+heise.de,privacy-missing-rectification,True,passed,Severity.LOW,
+heise.de,privacy-missing-officer-contact-details,True,passed,Severity.MEDIUM,The stated data protection officer has contact details
