@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import time
+import pytz
 import datetime
 from collections import defaultdict
 from typing import List
@@ -103,7 +104,13 @@ class Analyzer:
 
     def write_results_to_file(self) -> None:
         meta_base_path = Path(self.crawler_metadata_filepath).parent
-        results_csv_path: Path = meta_base_path / 'analyzer-results.csv'
+        utc_now = datetime.datetime.now(datetime.timezone.utc)
+        target_timezone = pytz.timezone('Asia/Singapore')
+        gmt8_time = utc_now.astimezone(target_timezone) # Convert the UTC time to GMT+8
+        formatted_time = gmt8_time.strftime("%m-%d-%Y_%H-%M-%S_GMT+8")
+        csv_name="analyzer-result-" + formatted_time
+        csv_name=str("analyzer-result-" + formatted_time + ".csv")
+        results_csv_path: Path = meta_base_path / csv_name
         logger.info(f'Writing results to {str(results_csv_path)}')
 
         with results_csv_path.open('w+', encoding='utf-8') as results_file:
