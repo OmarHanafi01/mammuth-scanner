@@ -1,0 +1,195 @@
+{
+    "crawledPages": [{
+        "originalDomain": "goldmarie-friends.de",
+        "actualDomain": "www.goldmarie-friends.de",
+        "pageType": "index",
+        "url": "https://www.goldmarie-friends.de/de/",
+        "htmlFilePath": "goldmarie-friends.de/index/index.html"
+      },
+      {
+        "originalDomain": "goldmarie-friends.de",
+        "actualDomain": "www.goldmarie-friends.de",
+        "pageType": "contact",
+        "url": "https://www.goldmarie-friends.de/de/kontakt/",
+        "htmlFilePath": "goldmarie-friends.de/contact/index.html"
+      },
+      {
+        "originalDomain": "lupus-ddns.de",
+        "actualDomain": "www.lupus-electronics.de",
+        "pageType": "index",
+        "url": "https://www.lupus-electronics.de/",
+        "htmlFilePath": "lupus-ddns.de/index/index.html"
+      },
+      {
+        "originalDomain": "lupus-ddns.de",
+        "actualDomain": "www.lupus-electronics.de",
+        "pageType": "contact",
+        "url": "https://www.lupus-electronics.de/de/service/kontakt/",
+        "htmlFilePath": "lupus-ddns.de/contact/index.html"
+      },
+      {
+        "originalDomain": "lupus-ddns.de",
+        "actualDomain": "www.lupus-electronics.de",
+        "pageType": "privacy",
+        "url": "https://www.lupus-electronics.de/de/datenschutz",
+        "htmlFilePath": "lupus-ddns.de/privacy/index.html"
+      },
+      {
+        "originalDomain": "lupus-ddns.de",
+        "actualDomain": "www.lupus-electronics.de",
+        "pageType": "privacy",
+        "url": "https://www.lupus-electronics.de/de/datenschutz/",
+        "htmlFilePath": "lupus-ddns.de/privacy/index.html"
+      },
+      {
+        "originalDomain": "logbuch-netzpolitik.de",
+        "actualDomain": "logbuch-netzpolitik.de",
+        "pageType": "index",
+        "url": "https://logbuch-netzpolitik.de/",
+        "htmlFilePath": "logbuch-netzpolitik.de/index/index.html"
+      },
+      {
+        "originalDomain": "logbuch-netzpolitik.de",
+        "actualDomain": "logbuch-netzpolitik.de",
+        "pageType": "privacy",
+        "url": "https://logbuch-netzpolitik.de/lnp311-i-love-you-but-i-have-chosen-datenschutz#366fa10d31e0ba5ddaa0a9afd92e44ea",
+        "htmlFilePath": "logbuch-netzpolitik.de/privacy/index.html"
+      },
+      {
+        "originalDomain": "logbuch-netzpolitik.de",
+        "actualDomain": "logbuch-netzpolitik.de",
+        "pageType": "privacy",
+        "url": "https://logbuch-netzpolitik.de/lnp311-i-love-you-but-i-have-chosen-datenschutz",
+        "htmlFilePath": "logbuch-netzpolitik.de/privacy/index.html"
+      },
+      {
+        "originalDomain": "logbuch-netzpolitik.de",
+        "actualDomain": "logbuch-netzpolitik.de",
+        "pageType": "privacy",
+        "url": "https://logbuch-netzpolitik.de/lnp311-i-love-you-but-i-have-chosen-datenschutz#6a3c009ebe6c965c234c7bfeee3e9d8c",
+        "htmlFilePath": "logbuch-netzpolitik.de/privacy/index.html"
+      },
+      {
+        "originalDomain": "berufskleidung24.de",
+        "actualDomain": "www.berufskleidung24.de",
+        "pageType": "index",
+        "url": "https://www.berufskleidung24.de/",
+        "htmlFilePath": "berufskleidung24.de/index/index.html"
+      },
+      {
+        "originalDomain": "berufskleidung24.de",
+        "actualDomain": "www.berufskleidung24.de",
+        "pageType": "contact",
+        "url": "https://www.berufskleidung24.de/kontakt/",
+        "htmlFilePath": "berufskleidung24.de/contact/index.html"
+      },
+      {
+        "originalDomain": "berufskleidung24.de",
+        "actualDomain": "www.berufskleidung24.de",
+        "pageType": "privacy",
+        "url": "https://www.berufskleidung24.de/datenschutz/",
+        "htmlFilePath": "berufskleidung24.de/privacy/index.html"
+      },
+      {
+        "originalDomain": "officecoach24.de",
+        "actualDomain": "officecoach24.de",
+        "pageType": "index",
+        "url": "http://officecoach24.de",
+        "htmlFilePath": "officecoach24.de/index/index.html"
+      },
+      {
+        "originalDomain": "kristalltherme-altenau.de",
+        "actualDomain": "kristalltherme-altenau.de",
+        "pageType": "index",
+        "url": "https://kristalltherme-altenau.de/",
+        "htmlFilePath": "kristalltherme-altenau.de/index/index.html"
+      },
+      {
+        "originalDomain": "kristalltherme-altenau.de",
+        "actualDomain": "kristalltherme-altenau.de",
+        "pageType": "contact",
+        "url": "https://kristalltherme-altenau.de/Formal/kontakt.php",
+        "htmlFilePath": "kristalltherme-altenau.de/contact/index.html"
+      },
+      {
+        "originalDomain": "kristalltherme-altenau.de",
+        "actualDomain": "kristalltherme-altenau.de",
+        "pageType": "privacy",
+        "url": "https://kristalltherme-altenau.de/Formal/datenschutz.php",
+        "htmlFilePath": "kristalltherme-altenau.de/privacy/2.html"
+      },
+      {
+        "originalDomain": "kristalltherme-altenau.de",
+        "actualDomain": "kristalltherme-altenau.de",
+        "pageType": "privacy",
+        "url": "https://kristalltherme-altenau.de/Download_Documents/Transparente_Information_Gewinnspiel_Altenau.pdf",
+        "htmlFilePath": "kristalltherme-altenau.de/privacy/1.html"
+      },
+      {
+        "originalDomain": "hohenbogen.de",
+        "actualDomain": "hohenbogen.de",
+        "pageType": "index",
+        "url": "http://hohenbogen.de",
+        "htmlFilePath": "hohenbogen.de/index/index.html"
+      },
+  
+      {
+        "originalDomain": "heise.de",
+        "actualDomain": "www.heise.de",
+        "pageType": "index",
+        "url": "https://www.heise.de/",
+        "htmlFilePath": "heise.de/index/index.html"
+      },
+      {
+        "originalDomain": "heise.de",
+        "actualDomain": "www.heise.de",
+        "pageType": "privacy",
+        "url": "https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html",
+        "htmlFilePath": "heise.de/privacy/index.html"
+      },
+      {
+        "originalDomain": "blackberry.com",
+        "actualDomain": "www.blackberry.com",
+        "pageType": "index",
+        "url": "https://www.blackberry.com/",
+        "htmlFilePath": ""
+      },
+      {
+        "originalDomain": "blackberry.com",
+        "actualDomain": "www.blackberry.com",
+        "pageType": "index",
+        "url": "https://www.blackberry.com/privacy",
+        "htmlFilePath": ""
+      },
+      {
+        "originalDomain": "npmjs.com",
+        "actualDomain": "www.npmjs.com",
+        "pageType": "index",
+        "url": "https://www.npmjs.com/",
+        "htmlFilePath": ""
+      },
+  
+      {
+        "originalDomain": "cybersierra.co",
+        "actualDomain": "cybersierra.co",
+        "pageType": "index",
+        "url": "cybersierra.co",
+        "htmlFilePath": ""
+      },
+      {
+        "originalDomain": "cybersierra.co",
+        "actualDomain": "cybersierra.co",
+        "pageType": "index",
+        "url": "https://cybersierra.co/data-protection-policy/",
+        "htmlFilePath": ""
+      },
+      {
+        "originalDomain": "github.com",
+        "actualDomain": "github.com",
+        "pageType": "privacy",
+        "url": "https://github.com/privacy",
+        "htmlFilePath": ""
+      }
+  
+    ]
+  }

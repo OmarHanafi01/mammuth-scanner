@@ -33,10 +33,11 @@ class MetricCheck(ABC):
         html_strings: List[str] = list()
         for page in self.page_types.get(page_type, []):
             html_abspath = os.path.join(os.path.dirname(self.meta_data_filepath), page['htmlFilePath'])
+            #print(html_abspath)
             with open(html_abspath, 'rb') as f:
                 # don't fail on encoding issues, but replace the faulty characters
                 html = f.read().decode('utf-8', errors='replace')
-                html_strings.append(html)
+                html_strings.append(html)      
         return html_strings
 
     def phrase_in_html_body(self, phrase: str, html: str) -> bool:
